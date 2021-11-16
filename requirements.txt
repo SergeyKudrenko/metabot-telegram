@@ -1,0 +1,5 @@
+pandas==1.1.5
+prometheus-client==0.12.0
+requests==2.26.0
+seaborn==0.11.2
+tornado==6.1
